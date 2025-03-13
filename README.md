@@ -155,9 +155,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## Contact
-For questions or contributions, please contact:
-- **Author**: Pragyan Jyoti Dutta
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-
